@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+Welcome to my personal tech blog! I’m excited to share my journey through the tech industry with you. Here, you’ll find stories, insights, and lessons learned as I navigate the ever-evolving world of technology. Whether you’re a fellow tech enthusiast, a curious newcomer, or someone seeking inspiration, I hope my experiences will inform, motivate, and connect us all. Let’s explore the tech landscape together!
 {: .prompt-tip }
