@@ -10,4 +10,3 @@ gem "tzinfo", ">= 1", "< 3"
 gem "tzinfo-data"
 gem "sass-embedded", "~> 1.69.0"
 
-gem "google-protobuf", "~> 4.28"
