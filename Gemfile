@@ -9,3 +9,5 @@ gem "html-proofer", "~> 5.0", group: :test
 gem "tzinfo", ">= 1", "< 3"
 gem "tzinfo-data"
 gem "sass-embedded", "~> 1.69.0"
+
+gem "sass-embedded", "~> 1.89"   # 1.70+ ships a pre-built proto, no rake needed
