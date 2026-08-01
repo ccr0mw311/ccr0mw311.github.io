@@ -59,7 +59,7 @@ Next, I inserted sample records into the tables. After populating the database, 
 
 Although the exercises were straightforward, they demonstrated the complete workflow of working with a distributed SQL database—from provisioning infrastructure to creating databases, defining schemas, inserting records, and querying data. The labs also highlighted how YugabyteDB maintains the familiar SQL experience while operating as a distributed database behind the scenes.
 
-# Overall Summary
+# Overall
 
 The YugabyteDB Introduction to Distributed SQL course provided a solid foundation for understanding distributed databases and their role in modern application architectures. It successfully balanced theoretical concepts with practical exercises, making it easier to understand how distributed SQL supports scalability, high availability, resilience, and cloud-native deployments.
 
