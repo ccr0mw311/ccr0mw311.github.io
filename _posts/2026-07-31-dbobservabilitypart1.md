@@ -127,7 +127,7 @@ Finally, I opened the Prometheus Targets page and verified that the following ta
 
 ---
 
-## Step 6 – Import the Grafana Dashboard
+## Import the Grafana Dashboard
 
 With metrics successfully flowing into Prometheus, I imported a Grafana dashboard to visualize SQL Server performance in real time.
 
