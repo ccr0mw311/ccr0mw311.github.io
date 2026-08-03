@@ -129,7 +129,7 @@ Finally, I opened the Prometheus Targets page and verified that the following ta
 
 ## Import the Grafana Dashboard
 
-With metrics successfully flowing into Prometheus, I imported a Grafana dashboard to visualize SQL Server performance in real time.
+With metrics successfully flowing into Prometheus, I pasted the raw dashboard JSON into Grafana's Import via panel JSON text box, allowing me to visualize SQL Server metrics in real time.
 
 ![Dashboard 1](/assets/img/posts/dash1.png)
 
